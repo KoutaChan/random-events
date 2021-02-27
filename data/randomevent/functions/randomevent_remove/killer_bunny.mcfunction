@@ -1,0 +1,1 @@
+kill @e[type=rabbit,tag=killer_rabbit]

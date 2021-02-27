@@ -1,0 +1,1 @@
+tag @e[type=minecraft:armor_stand,name=randomevent1] add start

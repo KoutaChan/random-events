@@ -1,0 +1,89 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 1,
+        "max": 64
+      },
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "weight": 35,
+          "quality": 1,
+          "name": "minecraft:chests/abandoned_mineshaft"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 1,
+          "name": "minecraft:shulker_box"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 75,
+          "quality": 1,
+          "name": "minecraft:gold_ingot"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 50,
+          "quality": 1,
+          "name": "minecraft:emerald"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 150,
+          "quality": 1,
+          "name": "minecraft:golden_apple"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:white_banner"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 150,
+          "quality": 1,
+          "name": "minecraft:tnt"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 150,
+          "quality": 1,
+          "name": "minecraft:chorus_fruit"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 150,
+          "quality": 1,
+          "name": "minecraft:coal_block"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 150,
+          "quality": 1,
+          "name": "minecraft:glass"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 150,
+          "quality": 13,
+          "name": "minecraft:magma_block"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 50,
+          "quality": 1,
+          "name": "minecraft:iron_ingot"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": 1,
+          "name": "minecraft:diamond"
+        }
+      ]
+    }
+  ]
+}
